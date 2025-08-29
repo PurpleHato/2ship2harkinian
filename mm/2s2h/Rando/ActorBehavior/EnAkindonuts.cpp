@@ -231,7 +231,7 @@ void Rando::ActorBehavior::InitEnAkindonutsBehavior() {
             entry.msg = LOCALIZED(
                 "What? You already bought that from me, Only one purchase per customer allowed!\xE0",
                 "Quoi? Tu m'as déjà acheté ça! Une seule vente par client!\xE0",
-                "Was? Zweimal das Gleiche zu kaufen, macht nicht viel Sinn. Nur ein Exemplar pro Kunde erlaubt!\xE0",
+                "Was? Zweimal das Gleiche zu kaufen, ergibt nicht viel Sinn. Nur ein Exemplar pro Kunde erlaubt!\xE0",
                 "TODO_JAPANESE", "TODO_SPANISH");
             CustomMessage::ReplaceSpecialChars(&entry.msg);
             CustomMessage::LoadCustomMessageIntoFont(entry);
