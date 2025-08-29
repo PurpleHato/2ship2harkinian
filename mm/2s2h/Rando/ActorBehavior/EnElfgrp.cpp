@@ -66,7 +66,7 @@ void ApplyGreatFairyHint(u16* textId, bool* loadFromMessageTable, RandoCheckId r
                       "{{article}}%g{{itemName}}%w.",
                       "%wS'il te plaît, trouve les Fées Perdues de notre couleur! Nous te récompenserons avec "
                       "{{article}}%g{{itemName}}%w",
-                      "%wBitte, finde die Verirrten Feen die von %rgleicher Farbe%w wie wir sind. Wir würden dir auch "
+                      "%wBitte, finde die Verirrten Feen, die von %rgleicher Farbe%w wie wir sind. Wir würden dir auch "
                       "{{article}}%g{{itemName}}%w geben.",
                       "TODO_JAPANESE", "TODO_SPANISH")
     };
